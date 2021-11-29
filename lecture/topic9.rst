@@ -9,7 +9,8 @@ topic 9. Protein secondary structure prediction
   
      * `AlphaFold <https://www.nature.com/articles/s41586-019-1923-7>`_
      * `RoseTTA <https://www.science.org/lookup/doi/10.1126/science.abj8754>`_
-     * Popular Science Articles    
+     * Popular Science Articles
+         * `AlphaFold: a solution to a 50-year-old grand challenge in biology, DeepMind, 2020-11-03 <https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology>`_
          * `兩大頂級AI演算法開源, TechOrange, 2021-07-19 <https://buzzorange.com/techorange/2021/07/19/alphafold-2-open-source/>`_
          * `AlphaFold2 預測準度逼近滿分, TechOrange, 2021-07-22 <https://buzzorange.com/techorange/2021/07/22/alphafold2-attention-model/>`_
      
