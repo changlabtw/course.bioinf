@@ -7,6 +7,7 @@ topic 9. Protein secondary structure prediction
 
   1. Protein 3D structure prediction
   
+     * `Protein-structure prediction revolutionized <https://www.nature.com/articles/d41586-021-02265-4>`_ by Nature News 
      * `AlphaFold <https://www.nature.com/articles/s41586-019-1923-7>`_
      * `RoseTTA <https://www.science.org/lookup/doi/10.1126/science.abj8754>`_
      * Popular Science Articles
