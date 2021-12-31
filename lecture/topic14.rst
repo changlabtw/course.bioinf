@@ -11,3 +11,4 @@ topic 14. ​​​Computational epigenetics
   5. HiC peak calling method : `Rao, S. S. et al. A 3D map of the human genome at kilobase resolution reveals principles of chromatin looping. Cell 159, 1665–80 (2014). <https://pubmed.ncbi.nlm.nih.gov/25497547/>`_
   6. Genome segmentation : `Ernst, J. & Kellis, M. ChromHMM: automating chromatin-state discovery and characterization. Nature Methods 9, 215–216 (2012). <https://pubmed.ncbi.nlm.nih.gov/22373907/>`_
   7. Review : `Sexton, T. & Cavalli, G. The role of chromosome domains in shaping the functional genome. Cell 160, 1049–59 (2015). <https://pubmed.ncbi.nlm.nih.gov/25768903/>`_
+  8. a nice introduction by Jian Ma, `Comparing 3D Genome Organization | CGSI 2019 <https://youtu.be/wMkbr55S35k>`_
