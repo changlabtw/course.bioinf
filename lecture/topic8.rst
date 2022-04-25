@@ -17,3 +17,5 @@ topic 08. Phylogenetic tree 2/2
   4. `MrBayes <http://morphbank.ebc.uu.se/mrbayes/>`_ : Bayesian phylogenetic analysis
   5. `PhyML <http://www.lirmm.fr/~guindon/phyml.html>`_ : fast maximum likelihood tree building
   6. `WWW-interface <http://bioweb.pasteur.fr/seqanal/phylogeny>`_  at Institut Pasteur, Paris
+
+:download:`topic08.1_bootstrap.pptx <../slides/topic08.1_bootstrap.pptx>`
