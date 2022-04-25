@@ -1,9 +1,6 @@
 topic 08. Phylogenetic tree 2/2
 ==========================================
 | **PRESENTATION3: bootstrap**
-
-:download:`topic08.1_bootstrap.pptx <../ppt/topic08.1_bootstrap.pptx>`
-
 | **​Character/parsimony-based methods**
 | **Maximum-likelihood methods: PhyML**
 
