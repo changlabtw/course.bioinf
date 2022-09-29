@@ -6,6 +6,6 @@ topic 02. Sequence alignment
 | **Dynamic programming - Global alignment**
 * Supporting Materials
 
-  1. `T-Coffee Reloaded <http://cedricnotredame.blogspot.tw/2016/08/t-coffee-reloaded.html>`_ by Cedric Notredame
+  1. Bellman, R. `The theory of dynamic programming <https://www.rand.org/pubs/papers/P550.html>`_. Bulletin of the American Mathematical Society 60, 503–515 (1954). 
   2. `SEAVIEW : Sequence <http://pbil.univ-lyon1.fr/software/seaview.html>`_ alignment editor
   3. `T-Coffee documentation <http://tcoffee.readthedocs.io/en/latest/index.html>`_
