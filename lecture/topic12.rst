@@ -16,5 +16,5 @@ topic 12. ​Next generation sequencing
   4. `​SRA NCBI <https://www.ncbi.nlm.nih.gov/sra>`_
   
   5. An Introduction of Burrows-Wheeler Transform (BWT) and Its Variants by Prof. Wing-Kai Hon 韓永楷
-      * `Slide <../ppt/cmct20220624_keynote1-hon.pdf>`_
+      * `Slide <../slides/cmct20220624_keynote1-hon.pdf>`_
       * `Youtube <https://youtu.be/5Rwadnlux7g>`_ 
