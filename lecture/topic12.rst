@@ -14,3 +14,7 @@ topic 12. ​Next generation sequencing
   2. `HaploReg <https://pubs.broadinstitute.org/mammals/haploreg/haploreg.php>`_ : a tool for exploring annotations of the noncoding genome at variants on haplotype blocks
   3. `ClinVar <https://www.ncbi.nlm.nih.gov/clinvar/>`_ : aggregates information about genomic variation and its relationship to human health
   4. `​SRA NCBI <https://www.ncbi.nlm.nih.gov/sra>`_
+  
+  5. An Introduction of Burrows-Wheeler Transform (BWT) and Its Variants by Prof. Wing-Kai Hon 韓永楷
+      * `Slide <../ppt/cmct20220624_keynote1-hon.pdf>`_
+      * `Youtube <https://youtu.be/5Rwadnlux7g>`_ 
