@@ -11,4 +11,4 @@ topic 11. Genomics
   3. `Statistics for Biologists by Nature collection <https://www.nature.com/collections/qghhqm/>`_
     * `Points of Significance by Nature Methods <https://www.nature.com/collections/qghhqm/pointsofsignificance>`_
         * `Replication <https://www.nature.com/articles/nmeth.3091>`_
-  
+  4. `英國欲打造基因醫療保健系統，明年砸40億為新生兒做基因定序 <https://youtu.be/3flnqlVUydE>`_ by TODAY看世界
